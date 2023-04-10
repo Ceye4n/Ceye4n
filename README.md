@@ -9,20 +9,6 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ceye4n&layout=compact&theme=github_dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```text
-Python           9 hrs 50 mins   ██████████████████▓░░░░░░   74.49 %
-C#               1 hr 5 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
-CSV/TSV          47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
-SQL              28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
-XML              23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
-Logos            9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-```
-
-<!--END_SECTION:waka-->
  
 
 if you like what I do, maybe consider buying me a tea 🥺👉👈
