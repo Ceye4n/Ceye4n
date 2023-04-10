@@ -1,4 +1,4 @@
-### Hi I´m Tim<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi I´m Ceye4n<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![wakatime](https://wakatime.com/badge/user/0c99f2a9-fba4-47f8-a649-0cdfa7ea59ff.svg)](https://wakatime.com/@0c99f2a9-fba4-47f8-a649-0cdfa7ea59ff)
 <br />
 Hi, I'm [Tim](https://github.com/Ceye4n/), a passionate self-taught full stack developer and a freelance software engineer from germany. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
@@ -9,12 +9,8 @@ I´m also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ceye4n&layout=compact&theme=github_dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
- 
 
-if you like what I do, maybe consider buying me a tea 🥺👉👈
 
-<a href="https://paypal.me/Ceye4n" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+[![Ceye4n's github stats](https://github-readme-stats.vercel.app/api?username=Ceye4n&count_private=true&show_icons=true&theme=github_dark&show_owner=true)](https://github.com/Ceye4n)
 
-[![Carina Sophie's github stats](https://github-readme-stats.vercel.app/api?username=Ceye4n&count_private=true&show_icons=true&theme=github_dark&show_owner=true)](https://github.com/Ceye4n)
-
-[![Tims's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ceye4n&&theme=github_dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Ceye4ns's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ceye4n&&theme=github_dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
