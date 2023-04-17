@@ -3,12 +3,12 @@
 <br />
 Hi, I'm [Ceye4n](https://github.com/Ceye4n/), a student learning coding.
 
-Languages:
--Python
+Languages:<br />
+-Python<br />
 
-Learning:
--Java
--Kotlin
+Learning:<br />
+-Java<br />
+-Kotlin<br />
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ceye4n&layout=compact&theme=github_dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
