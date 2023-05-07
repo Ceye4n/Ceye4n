@@ -9,7 +9,7 @@ Languages:<br />
 Learning:<br />
 -Java<br />
 -Kotlin<br />
-
+-C <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ceye4n&layout=compact&theme=github_dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
