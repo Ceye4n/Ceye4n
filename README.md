@@ -1,6 +1,8 @@
 ### Hi I´m Ceye4n
 [![wakatime](https://wakatime.com/badge/user/0c99f2a9-fba4-47f8-a649-0cdfa7ea59ff.svg)](https://wakatime.com/@0c99f2a9-fba4-47f8-a649-0cdfa7ea59ff)
 <br />
+(https://www.codewars.com/users/Ceye4n/badges/large)
+<br />
 Hi, I'm [Ceye4n](https://github.com/Ceye4n/), a student learning coding.
 
 Languages:<br />
