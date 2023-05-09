@@ -3,7 +3,6 @@
 <br />
 ![codewars](https://www.codewars.com/users/Ceye4n/badges/micro)
 <br />
-![TryHackMe Badge](https://tryhackme.com/badge/1926292)
 
 Hi, I'm [Ceye4n](https://github.com/Ceye4n/), a student learning coding.
 
@@ -14,6 +13,8 @@ Learning:<br />
 -Java<br />
 -Kotlin<br />
 -C <br />
+
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Ceye4n.png)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ceye4n&layout=compact&theme=github_dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
