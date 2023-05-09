@@ -3,6 +3,7 @@
 <br />
 ![codewars](https://www.codewars.com/users/Ceye4n/badges/micro)
 <br />
+![TryHackMe Badge](https://tryhackme.com/badge/1926292)
 
 Hi, I'm [Ceye4n](https://github.com/Ceye4n/), a student learning coding.
 
