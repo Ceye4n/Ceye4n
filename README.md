@@ -4,7 +4,7 @@
 ![codewars](https://www.codewars.com/users/Ceye4n/badges/micro)
 <br />
 
-Hi, I'm [Ceye4n](https://github.com/Ceye4n/), a student learning coding.
+Hi, I'm [Ceye4n](https://tryhackme.com/p/Ceye4n), a student learning coding.
 
 Languages:<br />
 -Python<br />
