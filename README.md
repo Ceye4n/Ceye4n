@@ -14,7 +14,7 @@ Learning:<br />
 -Kotlin<br />
 -C <br />
 
-![TryHackMe Badge]
+![TryHackMe Badge](<script src="https://tryhackme.com/badge/1926292"></script>)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ceye4n&layout=compact&theme=github_dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
