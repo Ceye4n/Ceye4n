@@ -2,7 +2,7 @@
 [![wakatime](https://wakatime.com/badge/user/0c99f2a9-fba4-47f8-a649-0cdfa7ea59ff.svg)](https://wakatime.com/@0c99f2a9-fba4-47f8-a649-0cdfa7ea59ff)
 ![codewars](https://www.codewars.com/users/Ceye4n/badges/micro)
 <br />
-Hi, I'm [Ceye4n](https://tryhackme.com/p/Ceye4n), a student learning coding.
+Hi, I'm [Ceye4n](https://tryhackme.com/p/Ceye4n), a student learning coding and cybersecurity.
 
 Languages:<br />
 -Python<br />
