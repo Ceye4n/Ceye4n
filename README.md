@@ -21,3 +21,5 @@ Learning:<br />
 [![Ceye4n's github stats](https://github-readme-stats.vercel.app/api?username=Ceye4n&count_private=true&show_icons=true&theme=github_dark&show_owner=true)](https://github.com/Ceye4n)
 
 [![Ceye4ns's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ceye4n&&theme=github_dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Ceye4ns's wakatime stats](https://wakatime.com/share/@Ceye4n/7dc5e675-9776-4e29-bd30-66f978e5d303.svg)
