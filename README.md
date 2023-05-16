@@ -18,7 +18,7 @@ Learning:<br />
 ![codewars](https://www.codewars.com/users/Ceye4n/badges/large)
 
 [![Ceye4n's github stats](https://github-readme-stats.vercel.app/api?username=Ceye4n&count_private=true&show_icons=true&theme=transparent&show_owner=true)](https://github.com/Ceye4n)
-[![Ceye4ns's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ceye4n&theme=transparent&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Ceye4ns's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ceye4n&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
