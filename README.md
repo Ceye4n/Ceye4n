@@ -12,7 +12,7 @@ Learning:<br />
 -Kotlin<br />
 -C <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ceye4n&layout=compact&theme=github_dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ceye4n&layout=compact&theme=transparent&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 [![Ceye4ns's wakatime stats](https://wakatime.com/share/@Ceye4n/7dc5e675-9776-4e29-bd30-66f978e5d303.svg)
 
 ![codewars](https://www.codewars.com/users/Ceye4n/badges/large)
