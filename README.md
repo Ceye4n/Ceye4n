@@ -7,7 +7,7 @@ Hi, I'm [Ceye4n](https://tryhackme.com/p/Ceye4n), a student learning coding and 
 Learning:<br />
 -Python<br />
 -Kotlin<br />
--Java>br />
+-Java<br />
 -Rust<br />
 
 [![Ceye4ns's wakatime stats](https://wakatime.com/share/@Ceye4n/7dc5e675-9776-4e29-bd30-66f978e5d303.svg)
